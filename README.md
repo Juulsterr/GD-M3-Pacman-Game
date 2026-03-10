@@ -26,12 +26,12 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 # Patch Notes:
 <details>
 <summary>v1.0</summary>
-* Initial release of the game with basic mechanics and controls.
-* Added 4 levels with increasing difficulty and different jewels to steal.
-* Added a timer that counts down from 120 seconds.
-* Added a playable security guard that chases the thief and gets faster with every jewel stolen.
+- Initial release of the game with basic mechanics and controls.
+- Added 4 levels with increasing difficulty and different jewels to steal.
+- Added a timer that counts down from 120 seconds.
+- Added a playable security guard that chases the thief and gets faster with every jewel stolen.
 </details>
 <details>
 <summary>v1.1</summary>
-* comming soon...
+- comming soon...
 </details>
