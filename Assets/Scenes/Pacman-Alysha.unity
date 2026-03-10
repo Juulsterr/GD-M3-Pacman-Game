@@ -230,19 +230,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD:Assets/Scenes/Pacman-Alysha.unity
   - component: {fileID: 602706042}
   - component: {fileID: 602706041}
   - component: {fileID: 602706040}
   - component: {fileID: 602706043}
   - component: {fileID: 602706045}
   - component: {fileID: 602706044}
-=======
-  - component: {fileID: 117334494}
-  - component: {fileID: 117334493}
-  - component: {fileID: 117334492}
-  - component: {fileID: 117334495}
->>>>>>> 39d3d41 (Alysha commit):Assets/Scenes/Pacman.unity
   m_Layer: 0
   m_Name: Thief
   m_TagString: Player
