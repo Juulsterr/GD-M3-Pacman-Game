@@ -1,8 +1,9 @@
 using UnityEngine;
-
 public class PacmanMovement : MonoBehaviour
 {
+
     public float speed = 5f;
+    public int coins;
 
     private Vector2 direction = Vector2.right; // start richting
     private Vector3 originalScale;
