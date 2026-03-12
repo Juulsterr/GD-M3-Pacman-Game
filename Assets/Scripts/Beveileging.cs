@@ -29,6 +29,7 @@ public class Beveiliging : MonoBehaviour
             transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);
         }
     }
+    //ehy
 
     void FixedUpdate()
     {
