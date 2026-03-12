@@ -1997,11 +1997,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6001194779602933986, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.0519931
+      value: 1.25
       objectReference: {fileID: 0}
     - target: {fileID: 6001194779602933986, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3099879
+      value: 0.26
       objectReference: {fileID: 0}
     - target: {fileID: 6001194779602933986, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2038,13 +2038,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 253957546988368203, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 841211259}
-    - targetCorrespondingSourceObject: {fileID: 253957546988368203, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 841211258}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19aa11fc2c9a64c61a73a863bec61633, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -2062,3 +2056,4 @@ SceneRoots:
   - {fileID: 602706042}
   - {fileID: 1119744345}
   - {fileID: 2063102204}
+  - {fileID: 4780048826841742476}
