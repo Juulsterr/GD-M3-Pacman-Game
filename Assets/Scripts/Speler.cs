@@ -5,6 +5,7 @@ public class PacmanMovement : MonoBehaviour
     public float speed = 5f;
     public int score = 0;
     public int health = 100;
+    public int coins = 0;
 
     private Vector2 direction = Vector2.right; // start richting
     private Vector3 originalScale;
