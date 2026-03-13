@@ -9,7 +9,6 @@ public class GoldenRings : MonoBehaviour
         
             PacmanMovement player = collision.gameObject.GetComponent<PacmanMovement>();
             player.goldenRings += 1;
-            player.coins += 10; // Voeg 10 coins toe aan de score van de speler
             ScoreManager.AddScore(10);
             Destroy(gameObject);
         }
