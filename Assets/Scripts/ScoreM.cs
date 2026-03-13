@@ -1,8 +1,7 @@
 using UnityEngine;
-using TMPro;
-public class UIScoreboard : MonoBehaviour
+
+public class ScoreM : MonoBehaviour
 {
-     public TMP_Text scoreField;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
