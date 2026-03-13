@@ -11,7 +11,6 @@ public class GoldenRings : MonoBehaviour
             player.goldenRings += 1;
             ScoreManager.AddScore(10);
             Destroy(gameObject);
-            // hello world
         }
     }
 }
