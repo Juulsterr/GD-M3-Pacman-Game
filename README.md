@@ -37,3 +37,8 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 
 * comming soon...
 </details>
+
+# Others:
+<details>
+<summary>Trello</summary>
+[Trello Board](https://trello.com/invite/b/6992f0a83828f60d2d5463b2/ATTI1e837d7ffa85b0dfa4d792d3fca24abcE557F5F6/sd1a-gd-pacmangame-julian🤝alysha)
