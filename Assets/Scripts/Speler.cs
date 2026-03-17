@@ -51,6 +51,6 @@ public class PacmanMovement : MonoBehaviour
     }
     private void Die()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name); // Reload the current scene
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Pacman-Alysha"); // Reload the current scene
     }
 }
