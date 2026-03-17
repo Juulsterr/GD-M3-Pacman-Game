@@ -1,4 +1,4 @@
-# GD-M3-Pacman-Game
+# GD-M3-Pacman-Game(Speedheist)
 Onze voorbeeld foto:
 ![alt text](img/gb2plvu9dn2b1.jpg)
 # Game Instructions/Information:
