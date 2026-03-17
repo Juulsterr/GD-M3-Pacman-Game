@@ -6,8 +6,7 @@ public class PacmanMovement : MonoBehaviour
     public int score = 0;
     public int health = 100;
     public int coins = 0;
-    public int goldenRings = 0;
-
+    public static int goldenRings = 0;
     private Vector2 direction = Vector2.right; // start richting
     private Vector3 originalScale;
 
