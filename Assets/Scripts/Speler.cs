@@ -9,6 +9,7 @@ public class PacmanMovement : MonoBehaviour
     public static int goldenRings = 0;
     private Vector2 direction = Vector2.right; // start richting
     private Vector3 originalScale;
+    public GameObject EndUI;
 
     void Start()
     {
@@ -51,6 +52,7 @@ public class PacmanMovement : MonoBehaviour
     }
     private void Die()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Pacman-Alysha"); // Reload the current scene
+        Time.timeScale = 0; // Pauzeer het spel
+        EndUI.SetActive(true); // Activeer de End UI
     }
 }
