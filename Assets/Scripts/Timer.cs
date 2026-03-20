@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
     private float targetTime;
-    public float maxTime = 120.0f; // 2 minuten
+    public float maxTime = 90.0f; // 1.5 minuten
 
     public GameObject EndUI;
     public TextMeshProUGUI timerText;
