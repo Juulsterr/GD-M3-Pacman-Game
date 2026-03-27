@@ -8,7 +8,7 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 * S - Move Down
 * D - Move Right
 * E - Special Ability/You can unlock a special ability to help you escape (will be added later in the game)
-## 💻🧑🏻‍✈️Controls Security:
+## 💻🧑‍💼Controls Security:
 * Arrow Up - Move Up
 * Arrow Left - Move Left
 * Arrow Down - Move Down
