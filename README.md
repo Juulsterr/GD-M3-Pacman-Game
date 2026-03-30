@@ -51,24 +51,24 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 
 <p align="center">
   <a href="https://twitter.com/jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="32" style="background-color:#1DA1F2; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/twitter/ffffff" width="32" style="background-color:#1DA1F2; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://youtube.com/@jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32" style="background-color:#FF0000; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/youtube/ffffff" width="32" style="background-color:#FF0000; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://discord.gg/jouwserver">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" style="background-color:#5865F2; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/discord/ffffff" width="32" style="background-color:#5865F2; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://github.com/jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" style="background-color:#181717; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" style="background-color:#181717; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://twitch.tv/jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="32" style="background-color:#9146FF; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/twitch/ffffff" width="32" style="background-color:#9146FF; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://instagram.com/jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" style="background-color:#E4405F; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" style="background-color:#E4405F; padding:8px; border-radius:10px; margin:4px;">
   </a>
   <a href="https://tiktok.com/@jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="32" style="background-color:#000000; padding:6px; border-radius:8px;">
+    <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="32" style="background-color:#000000; padding:8px; border-radius:10px; margin:4px;">
   </a>
 </p>
