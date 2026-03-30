@@ -51,12 +51,24 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 
 <p align="center">
   <a href="https://twitter.com/jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="32">
   </a>
   <a href="https://youtube.com/@jouwnaam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32">
   </a>
   <a href="https://discord.gg/jouwserver">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32">
+  </a>
+  <a href="https://github.com/jouwnaam">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32">
+  </a>
+  <a href="https://twitch.tv/jouwnaam">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="32">
+  </a>
+  <a href="https://instagram.com/jouwnaam">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32">
+  </a>
+  <a href="https://tiktok.com/@jouwnaam">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="32">
   </a>
 </p>
