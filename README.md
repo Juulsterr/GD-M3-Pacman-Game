@@ -51,12 +51,12 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 
 <p align="center">
   <a href="https://twitter.com/jouwnaam">
-    <img src="https://img.shields.io/badge/Twitter-@jouwnaam-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30">
   </a>
   <a href="https://youtube.com/@jouwnaam">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30">
   </a>
   <a href="https://discord.gg/jouwserver">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30">
   </a>
 </p>
