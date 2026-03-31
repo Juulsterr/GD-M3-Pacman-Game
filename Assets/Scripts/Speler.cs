@@ -6,7 +6,10 @@ public class PacmanMovement : MonoBehaviour
     public int score = 0;
     public int health = 100;
     public int coins = 0;
+    public int goldenRings0 = 0;
+    public int expensiveWatches0 = 0;
     public static int goldenRings = 0;
+    public static int expensiveWatches = 0;
     private Vector2 direction = Vector2.right; // start richting
     private Vector3 originalScale;
     public GameObject EndUI;
@@ -21,20 +24,20 @@ public class PacmanMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W)) direction = Vector2.up;
         if (Input.GetKeyDown(KeyCode.S)) direction = Vector2.down;
 
-        Debug.Log("VerticalController: " + Input.GetAxis("VerticalController"));
-        if (Input.GetAxis("VerticalController") > 0.99f) direction = Vector3.up;
-        if (Input.GetAxis("VerticalController") < -0.99f) direction = Vector3.down;
-        if (Input.GetAxis("HorizontalController") < -0.99f)
-        {
-            direction = Vector3.left;
-            transform.localScale = new Vector3(-originalScale.x, originalScale.y, originalScale.z); 
-        }
+        // Debug.Log("VerticalController: " + Input.GetAxis("VerticalController"));
+        // if (Input.GetAxis("VerticalController") > 0.99f) direction = Vector3.up;
+        // if (Input.GetAxis("VerticalController") < -0.99f) direction = Vector3.down;
+        // if (Input.GetAxis("HorizontalController") < -0.99f)
+        // {
+        //     direction = Vector3.left;
+        //     transform.localScale = new Vector3(-originalScale.x, originalScale.y, originalScale.z); 
+        // }
          
-        if (Input.GetAxis("HorizontalController") > 0.99f)
-        {
-            direction = Vector3.right;
-            transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);        
-        } 
+        // if (Input.GetAxis("HorizontalController") > 0.99f)
+        // {
+        //     direction = Vector3.right;
+        //     transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);        
+        // } 
 
 
     

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 719cb1a148c88664db05955c5e4d9a38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4734246684151129256
+    second: ExpensiveWatch-Sheet_0
+  - first:
+      213: -6989225188187964820
+    second: ExpensiveWatch-Sheet_1
+  - first:
+      213: -1103000408597331401
+    second: ExpensiveWatch-Sheet_2
+  - first:
+      213: 8379481262328242706
+    second: ExpensiveWatch-Sheet_3
+  - first:
+      213: 4041001643767796470
+    second: ExpensiveWatch-Sheet_4
+  - first:
+      213: -4800751751502271976
+    second: ExpensiveWatch-Sheet_5
+  - first:
+      213: 2013223636523727120
+    second: ExpensiveWatch-Sheet_6
+  - first:
+      213: -4905087763503803876
+    second: ExpensiveWatch-Sheet_7
+  - first:
+      213: 3785111434464535452
+    second: ExpensiveWatch-Sheet_8
+  - first:
+      213: -8045351452524963311
+    second: ExpensiveWatch-Sheet_9
+  - first:
+      213: -5928687735162893208
+    second: ExpensiveWatch-Sheet_10
+  - first:
+      213: -5574430444460296216
+    second: ExpensiveWatch-Sheet_11
+  - first:
+      213: -3041101018533268204
+    second: ExpensiveWatch-Sheet_12
+  - first:
+      213: 1220570717973741214
+    second: ExpensiveWatch-Sheet_13
+  - first:
+      213: 7382148435633461669
+    second: ExpensiveWatch-Sheet_14
+  - first:
+      213: 4114693209078877200
+    second: ExpensiveWatch-Sheet_15
+  - first:
+      213: 157416038337509545
+    second: ExpensiveWatch-Sheet_16
+  - first:
+      213: -8688981987543897660
+    second: ExpensiveWatch-Sheet_17
+  - first:
+      213: -6058424552954475605
+    second: ExpensiveWatch-Sheet_18
+  - first:
+      213: -868604181833285267
+    second: ExpensiveWatch-Sheet_19
+  - first:
+      213: -674600880375863850
+    second: ExpensiveWatch-Sheet_20
+  - first:
+      213: 2709064097260766253
+    second: ExpensiveWatch-Sheet_21
+  - first:
+      213: -6070605304932839413
+    second: ExpensiveWatch-Sheet_22
+  - first:
+      213: 3407216554942383405
+    second: ExpensiveWatch-Sheet_23
+  - first:
+      213: 2765454727081747883
+    second: ExpensiveWatch-Sheet_24
+  - first:
+      213: 3383216459274522132
+    second: ExpensiveWatch-Sheet_25
+  - first:
+      213: 2979504378237977827
+    second: ExpensiveWatch-Sheet_26
+  - first:
+      213: 2269148474434770003
+    second: ExpensiveWatch-Sheet_27
+  - first:
+      213: 779187526682528268
+    second: ExpensiveWatch-Sheet_28
+  - first:
+      213: 6680310485211096582
+    second: ExpensiveWatch-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 43
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a426efa64c63b140800000000000000
+      internalID: 4734246684151129256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6af7dac8b8410f90800000000000000
+      internalID: -6989225188187964820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 45
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732027ae8fa51b0f0800000000000000
+      internalID: -1103000408597331401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 46
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ed1bcfc5e94470800000000000000
+      internalID: 8379481262328242706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 47
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f29c89b595841830800000000000000
+      internalID: 4041001643767796470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 48
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a6fdca7bd406db0800000000000000
+      internalID: -4800751751502271976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 49
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ba6c1b3860fb10800000000000000
+      internalID: 2013223636523727120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 50
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c129d38daa0adebb0800000000000000
+      internalID: -4905087763503803876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 51
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9327869bca678430800000000000000
+      internalID: 3785111434464535452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 52
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a9313ea7b295090800000000000000
+      internalID: -8045351452524963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 53
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c86699ae119bda0800000000000000
+      internalID: -5928687735162893208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 54
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e732dc9b05a3a2b0800000000000000
+      internalID: -5574430444460296216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 55
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415fe307cb6dbc5d0800000000000000
+      internalID: -3041101018533268204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 56
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e7114e99650f010800000000000000
+      internalID: 1220570717973741214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 55
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95321d3e8a27660800000000000000
+      internalID: 7382148435633461669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 54
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ccbde4ca35a1930800000000000000
+      internalID: 4114693209078877200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 53
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a87e078d014f2200800000000000000
+      internalID: 157416038337509545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 52
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ada42be88a6780800000000000000
+      internalID: -8688981987543897660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 51
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babc4aec7f62ceba0800000000000000
+      internalID: -6058424552954475605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 50
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d618863491912f3f0800000000000000
+      internalID: -868604181833285267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 49
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e700d21653a6f0800000000000000
+      internalID: -674600880375863850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 48
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240ef67177889520800000000000000
+      internalID: 2709064097260766253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 47
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0050eb73a0e0cba0800000000000000
+      internalID: -6070605304932839413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 46
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25cb2e876dd84f20800000000000000
+      internalID: 3407216554942383405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 45
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e12a1c6ed06620800000000000000
+      internalID: 2765454727081747883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 44
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e0055d17993fe20800000000000000
+      internalID: 3383216459274522132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 43
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e488972273595920800000000000000
+      internalID: 2979504378237977827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 42
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354dd49d382ad7f10800000000000000
+      internalID: 2269148474434770003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 41
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac35d5dea30da00800000000000000
+      internalID: 779187526682528268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpensiveWatch-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 40
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60623541efa35bc50800000000000000
+      internalID: 6680310485211096582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExpensiveWatch-Sheet_0: 4734246684151129256
+      ExpensiveWatch-Sheet_1: -6989225188187964820
+      ExpensiveWatch-Sheet_10: -5928687735162893208
+      ExpensiveWatch-Sheet_11: -5574430444460296216
+      ExpensiveWatch-Sheet_12: -3041101018533268204
+      ExpensiveWatch-Sheet_13: 1220570717973741214
+      ExpensiveWatch-Sheet_14: 7382148435633461669
+      ExpensiveWatch-Sheet_15: 4114693209078877200
+      ExpensiveWatch-Sheet_16: 157416038337509545
+      ExpensiveWatch-Sheet_17: -8688981987543897660
+      ExpensiveWatch-Sheet_18: -6058424552954475605
+      ExpensiveWatch-Sheet_19: -868604181833285267
+      ExpensiveWatch-Sheet_2: -1103000408597331401
+      ExpensiveWatch-Sheet_20: -674600880375863850
+      ExpensiveWatch-Sheet_21: 2709064097260766253
+      ExpensiveWatch-Sheet_22: -6070605304932839413
+      ExpensiveWatch-Sheet_23: 3407216554942383405
+      ExpensiveWatch-Sheet_24: 2765454727081747883
+      ExpensiveWatch-Sheet_25: 3383216459274522132
+      ExpensiveWatch-Sheet_26: 2979504378237977827
+      ExpensiveWatch-Sheet_27: 2269148474434770003
+      ExpensiveWatch-Sheet_28: 779187526682528268
+      ExpensiveWatch-Sheet_29: 6680310485211096582
+      ExpensiveWatch-Sheet_3: 8379481262328242706
+      ExpensiveWatch-Sheet_4: 4041001643767796470
+      ExpensiveWatch-Sheet_5: -4800751751502271976
+      ExpensiveWatch-Sheet_6: 2013223636523727120
+      ExpensiveWatch-Sheet_7: -4905087763503803876
+      ExpensiveWatch-Sheet_8: 3785111434464535452
+      ExpensiveWatch-Sheet_9: -8045351452524963311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
