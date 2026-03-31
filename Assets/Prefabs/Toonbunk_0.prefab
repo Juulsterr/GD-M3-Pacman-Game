@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3082884426180993404}
   - component: {fileID: 8440956863274035481}
-  - component: {fileID: 7576983241096431493}
+  - component: {fileID: 6215997715498313279}
   m_Layer: 0
   m_Name: Toonbunk_0
   m_TagString: Untagged
@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.8872, y: -0.8653, z: 0}
-  m_LocalScale: {x: 0.26974002, y: 0.23618, z: 1}
+  m_LocalScale: {x: 0.15, y: 0.1885661, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 5357788532645241613, guid: 7cc1828c8ef52478d91effb85e389903, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 1
   m_DrawMode: 0
   m_Size: {x: 4.67, y: 8}
@@ -91,8 +91,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &7576983241096431493
-BoxCollider2D:
+--- !u!68 &6215997715498313279
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -126,14 +126,15 @@ BoxCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.67, y: 8}
-    newSize: {x: 4.67, y: 8}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 4.67, y: 8}
   m_EdgeRadius: 0
+  m_Points:
+  - {x: 2.3719199, y: 4.0322666}
+  - {x: 2.3821003, y: -4.0103135}
+  - {x: -2.3051355, y: -4.0200524}
+  - {x: -2.3794332, y: -2.4965954}
+  - {x: 1.0692532, y: -2.4392626}
+  - {x: 1.117126, y: 4.058449}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0

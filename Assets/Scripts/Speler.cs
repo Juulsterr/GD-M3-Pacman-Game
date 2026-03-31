@@ -18,8 +18,8 @@ public class PacmanMovement : MonoBehaviour
 
     void Update()
     {
-        // if (Input.GetKeyDown(KeyCode.W)) direction = Vector2.up;
-        // if (Input.GetKeyDown(KeyCode.S)) direction = Vector2.down;
+        if (Input.GetKeyDown(KeyCode.W)) direction = Vector2.up;
+        if (Input.GetKeyDown(KeyCode.S)) direction = Vector2.down;
 
         Debug.Log("VerticalController: " + Input.GetAxis("VerticalController"));
         if (Input.GetAxis("VerticalController") > 0.99f) direction = Vector3.up;
@@ -38,7 +38,7 @@ public class PacmanMovement : MonoBehaviour
 
 
     
-/*
+
         if (Input.GetKeyDown(KeyCode.A))
         {
             direction = Vector2.left;
@@ -50,7 +50,7 @@ public class PacmanMovement : MonoBehaviour
             direction = Vector2.right;
             transform.localScale = new Vector3(originalScale.x, originalScale.y, originalScale.z);
         }
-        */
+        
     }
 
     void FixedUpdate()
