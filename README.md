@@ -1,7 +1,7 @@
-# ⍩⃝GD-M3-Pacman-Game(Speedheist)
+# ⍩⃝-GD-M3-Pacman-Game(Speedheist)
 ![alt text](img/Speedheist_Done.png)
 # 📝Game Instructions/Information:
-In Speedheist your goal is to steal all the coins and jewels in the jewelry store while escaping the security gaurd that wants to catch you. Everytime you steal a jewel the securtity gaurd will get a little bit faster and if he catches you, you lose the game and have to start over. If you manage to steal all the coins and jewels without getting caught, you can escape the jewelry store by using the emergency exit that automatically opens after stealing all jewels and collecting all the coins. The reward for collecting a coin is 1 point and the reward for stealing a jewel is from the range of 10 to 1000 points, in the  first level you will be stealing 4 golden rings worth 10 points each, in the second level you will be stealing 2 diamond earings worth 100 points each, in the third level you will be stealing 2 expensive wathces worth 500 points each and in the fourth level you will be stealing 1 expensive diamond necklace worth 1000 points, but it will become harder to steal as you reach higher levels. There also is a timer that counts down from 120 seconds, if the timer reaches 0 before you steal all the coins and jewels the cops show up and surround the jewelry store and you will be arrested and lose the game and the security gaurd wins. The game  will be playable on one keyboard with the thief using the WASD keys and the security gaurd using the arrow keys, both players can use a special ability that they can unlock later in the game to help them win for the thief using E and for the security gaurd using Slash.
+In Speedheist your goal is to steal all the coins and jewels in the jewelry store while escaping the security gaurd that wants to catch you. Everytime you steal a jewel the securtity gaurd will get a little bit faster and if he catches you, you lose the game and have to start over. If you manage to steal all the coins and jewels without getting caught, you can escape the jewelry store by using the emergency exit that automatically opens after stealing all jewels and collecting all the coins. The reward for collecting a coin is 1 point and the reward for stealing a jewel is from the range of 10 to 1000 points, in the  first level you will be stealing 4 golden rings worth 10 points each, in the second level you will be stealing 2 expensive wathces worth 100 points each, in the third level you will be stealing 2 expensive diamond necklaces worth 500 points each and in the fourth level you will be stealing 1  worth 1000 points, but it will become harder to steal as you reach higher levels. There also is a timer that counts down from 120 seconds, if the timer reaches 0 before you steal all the coins and jewels the cops show up and surround the jewelry store and you will be arrested and lose the game and the security gaurd wins. The game  will be playable on one keyboard with the thief using the WASD keys and the security gaurd using the arrow keys, both players can use a special ability that they can unlock later in the game to help them win for the thief using E and for the security gaurd using Slash.
 ## 💻🥷🏻Controls Thief:
 * W - Move Up
 * A - Move Left 
@@ -48,3 +48,27 @@ In Speedheist your goal is to steal all the coins and jewels in the jewelry stor
 <summary>📈Trello</summary>
 [Trello Board](https://trello.com/b/kZCdiARe/sd1a-gd-pacmangame-julian%F0%9F%A4%9Dalysha)
 </details>
+
+<p align="center">
+  <a href="https://twitter.com/jouwnaam">
+    <img src="https://cdn.simpleicons.org/twitter/ffffff" width="32" style="background-color:#1DA1F2; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://youtube.com/@jouwnaam">
+    <img src="https://cdn.simpleicons.org/youtube/ffffff" width="32" style="background-color:#FF0000; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://discord.gg/jouwserver">
+    <img src="https://cdn.simpleicons.org/discord/ffffff" width="32" style="background-color:#5865F2; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://github.com/jouwnaam">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" style="background-color:#181717; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://twitch.tv/jouwnaam">
+    <img src="https://cdn.simpleicons.org/twitch/ffffff" width="32" style="background-color:#9146FF; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://instagram.com/jouwnaam">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" style="background-color:#E4405F; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+  <a href="https://tiktok.com/@jouwnaam">
+    <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="32" style="background-color:#000000; padding:8px; border-radius:10px; margin:4px;">
+  </a>
+</p>
