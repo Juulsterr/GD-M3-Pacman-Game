@@ -19,12 +19,22 @@ public class EmergencyExit : MonoBehaviour
         // Reset collected state when the level starts.
         PacmanMovement.goldenRings = 0;
         GoldenRings.goldenRingsRequired = 4;
+        PacmanMovement.expensiveWatches = 0;
+        ExpensiveWatchScript.expensiveWatchesRequired = 2;
     }
 
     void Update()
     {
         // Rotate the exit when the player has collected 4 rings.
         if (PacmanMovement.goldenRings >= 4)
+        {
+            Quaternion mijnRotatie = transform.rotation;
+            Quaternion doelRotatie = Quaternion.Euler(0f, 0f, -90f);
+            timer += Time.deltaTime;
+            transform.rotation = Quaternion.RotateTowards(mijnRotatie, doelRotatie,timer);
+
+        }
+         if (PacmanMovement.expensiveWatches >= 4)
         {
             Quaternion mijnRotatie = transform.rotation;
             Quaternion doelRotatie = Quaternion.Euler(0f, 0f, -90f);
