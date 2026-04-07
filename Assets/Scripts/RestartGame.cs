@@ -5,7 +5,8 @@ public class RestartGame : MonoBehaviour
     public string sceneName;
     public void LoadCurrentScene()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);    } 
+        UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
+} 
 
 
     private void Update()
